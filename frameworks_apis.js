@@ -23,3 +23,5 @@ A framework, on the other hand, is like building a model home. You have a set of
 
 /* api = mini app that is built on top of applicaiton that handles the transfer of data (like a waiter at a restuarant taking an order) 
 */
+
+
